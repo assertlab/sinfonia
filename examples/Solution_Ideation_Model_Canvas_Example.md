@@ -1,4 +1,4 @@
-# **Exemplo de Preenchimento: Canvas de Ideação de Soluções (Versão 3.0)**
+# Exemplo de Preenchimento: Canvas de Ideação de Soluções
 
 _Este exemplo utiliza as informações do arquivo que você forneceu, agora aplicadas à nova estrutura de matriz._
 
