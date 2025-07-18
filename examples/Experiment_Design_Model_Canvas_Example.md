@@ -1,4 +1,4 @@
-# **Exemplo de Preenchimento: Canvas de Desenho de Experimento (Versão 2.0)**
+# Exemplo de Preenchimento: Canvas de Desenho de Experimento
 
 _Este exemplo foi adaptado para a nova estrutura focada em hipóteses e aprendizado._
 
