@@ -1,5 +1,4 @@
-
-## **Exemplo 1: Diagrama de Contexto (Nível 1)**
+## Exemplo 1: Diagrama de Contexto (Nível 1)
 
 - **Título**: "Diagrama de Contexto para o Assistente de Agendamento Inteligente"
     
@@ -32,7 +31,7 @@
 
 ---
 
-## **Exemplo 2: Diagrama de Contêiner (Nível 2)**
+## Exemplo 2: Diagrama de Contêiner (Nível 2)
 
 - **Título**: "Diagrama de Contêiner para o Assistente de Agendamento Inteligente"
     
@@ -81,7 +80,7 @@
 
 ---
 
-## **Exemplo 3: Diagrama de Componente (Nível 3)**
+## Exemplo 3: Diagrama de Componente (Nível 3)
 
 - **Título**: "Diagrama de Componentes para o **Serviço de IA**"
     
