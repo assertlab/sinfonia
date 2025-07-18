@@ -18,7 +18,7 @@ Nossa filosofia central é:
 
 > "Um framework para o design estratégico de produtos e negócios, fundamentado na aplicação e integração de múltiplas inteligências. Sua prática é guiada pelo aprendizado e evolução contínua com base em evidências, mantendo um compromisso fundamental com a geração de valor para clientes, o mercado e o próprio negócio."
 
-Este trabalho é guiado por três pilares de **[Princípios-Chave](link-para-o-ebook/capitulo-1)**:
+Este trabalho é guiado por três pilares de **[Princípios-Chave]()**:
 1.  **Pilares Estratégicos de Valor:** (Desejável, Viável, Factível, Defensável)
 2.  **Abordagem de Criação e Inovação:** (Empatia Profunda, Colaboração Radical, Experimentação Contínua)
 3.  **Motor de Evolução Contínua:** (Aprendizado por Evidências, Entrega Contínua de Valor, Adaptação Inteligente)
@@ -81,7 +81,7 @@ Este repositório contém os templates e exemplos para os 14 artefatos refinados
 
 | Fase | Artefato | Propósito | Template | Exemplo |
 | :--- | :--- | :--- | :--- | :--- |
-| **Exposição** | Canvas de Identificação do Domínio | Define e justifica o território de atuação do projeto. | [Link](https://www.google.com/search?q=./templates/01-identificacao-dominio.md) | [Link](https://www.google.com/search?q=./examples/01-identificacao-dominio-ex.md) |
+| **Exposição** | Canvas de Identificação do Domínio | Define e justifica o território de atuação do projeto. | [Link](./templates/Domain_Identification_Model_Canvas_Template.md) | [Link](./examples/Domain_Identification_Model_Canvas_Example.md) |
 | | Persona Model Canvas | Cria um arquétipo do usuário principal, focando em suas dores e objetivos. | [Link](https://www.google.com/search?q=./templates/02-persona-model.md) | [Link](https://www.google.com/search?q=./examples/02-persona-model-ex.md) |
 | | Canvas de Mapeamento de Fontes de Dados | Avalia a qualidade, o acesso e os riscos das fontes de dados disponíveis. | [Link](https://www.google.com/search?q=./templates/03-mapeamento-dados.md) | [Link](https://www.google.com/search?q=./examples/03-mapeamento-dados-ex.md) |
 | | Canvas de Estratégia e Ação do Projeto | Consolida a visão, os KPIs e as primeiras ações táticas do projeto. | [Link](https://www.google.com/search?q=./templates/04-estrategia-acao.md) | [Link](https://www.google.com/search?q=./examples/04-estrategia-acao-ex.md) |
