@@ -1,4 +1,4 @@
-# **Exemplo de Preenchimento: Checklist de Lançamento**
+# Exemplo de Preenchimento: Checklist de Lançamento
 
 - **1. Objetivo e Escopo do Lançamento**
     
