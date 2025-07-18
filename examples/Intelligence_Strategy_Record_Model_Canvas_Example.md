@@ -1,4 +1,4 @@
-# **Exemplo de Preenchimento: Registro de Estratégia de Inteligência (V1.0)**
+# Exemplo de Preenchimento: Registro de Estratégia de Inteligência
 
 - **1. Objetivo da Inteligência**
 
