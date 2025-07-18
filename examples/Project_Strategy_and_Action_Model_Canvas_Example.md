@@ -1,4 +1,4 @@
-# **Exemplo de Preenchimento: Canvas de Estratégia e Ação do Projeto**
+# Exemplo de Preenchimento: Canvas de Estratégia e Ação do Projeto
 
 _Este exemplo foi criado a partir da fusão das informações dos exemplos anteriores._
 
