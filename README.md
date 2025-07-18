@@ -82,23 +82,23 @@ Este repositório contém os templates e exemplos para os 14 artefatos refinados
 | Fase | Artefato | Propósito | Template | Exemplo |
 | :--- | :--- | :--- | :--- | :--- |
 | **Exposição** | Canvas de Identificação do Domínio | Define e justifica o território de atuação do projeto. | [Link](./templates/Domain_Identification_Model_Canvas_Template.md) | [Link](./examples/Domain_Identification_Model_Canvas_Example.md) |
-| | Persona Model Canvas | Cria um arquétipo do usuário principal, focando em suas dores e objetivos. | [Link](https://www.google.com/search?q=./templates/02-persona-model.md) | [Link](https://www.google.com/search?q=./examples/02-persona-model-ex.md) |
-| | Canvas de Mapeamento de Fontes de Dados | Avalia a qualidade, o acesso e os riscos das fontes de dados disponíveis. | [Link](https://www.google.com/search?q=./templates/03-mapeamento-dados.md) | [Link](https://www.google.com/search?q=./examples/03-mapeamento-dados-ex.md) |
-| | Canvas de Estratégia e Ação do Projeto | Consolida a visão, os KPIs e as primeiras ações táticas do projeto. | [Link](https://www.google.com/search?q=./templates/04-estrategia-acao.md) | [Link](https://www.google.com/search?q=./examples/04-estrategia-acao-ex.md) |
-| **Composição** | Ficha de Prompt | Documenta um prompt como um ativo de engenharia reutilizável. | [Link](https://www.google.com/search?q=./templates/05-ficha-prompt.md) | [Link](https://www.google.com/search?q=./examples/05-ficha-prompt-ex.md) |
-| | Canvas de Ideação de Soluções | Prioriza ideias de solução de forma visual com a matriz Impacto vs. Esforço. | [Link](https://www.google.com/search?q=./templates/06-ideacao-solucoes.md) | [Link](https://www.google.com/search?q=./examples/06-ideacao-solucoes-ex.md) |
-| | Canvas de Desenho de Experimento | Desenha um experimento enxuto (MVP) para validar a principal hipótese. | [Link](https://www.google.com/search?q=./templates/07-desenho-experimento.md) | [Link](https://www.google.com/search?q=./examples/07-desenho-experimento-ex.md) |
-| **Ensaio** | C4 Model (Templates) | Documenta a arquitetura de software em diferentes níveis de abstração. | [Link](https://www.google.com/search?q=./templates/08-c4-model/) | [Link](https://www.google.com/search?q=./examples/08-c4-model-ex.md) |
-| | Ficha de Estratégia de Inteligência | Define a abordagem técnica da IA (RAG, Fine-tuning, etc.). | [Link](https://www.google.com/search?q=./templates/09-estrategia-inteligencia.md) | [Link](https://www.google.com/search?q=./examples/09-estrategia-inteligencia-ex.md) |
-| | Canvas de Testes e Validação | Planeja e documenta os testes de qualidade do sistema. | [Link](https://www.google.com/search?q=./templates/10-testes-validacao.md) | [Link](https://www.google.com/search?q=./examples/10-testes-validacao-ex.md) |
-| | Checklist de Lançamento | Garante a prontidão técnica e de negócio para o lançamento (Go/No-Go). | [Link](https://www.google.com/search?q=./templates/11-checklist-lancamento.md) | [Link](https://www.google.com/search?q=./examples/11-checklist-lancamento-ex.md) |
-| **Ressonância** | Canvas de Métricas de Escala e Impacto | Monitora o desempenho, o uso e o impacto do produto em produção. | [Link](https://www.google.com/search?q=./templates/12-metricas-impacto.md) | [Link](https://www.google.com/search?q=./examples/12-metricas-impacto-ex.md) |
-| | Canvas de Planejamento de Escalabilidade | Planeja proativamente a evolução da infraestrutura para suportar o crescimento. | [Link](https://www.google.com/search?q=./templates/13-planejamento-escalabilidade.md) | [Link](https://www.google.com/search?q=./examples/13-planejamento-escalabilidade-ex.md) |
-| | Painel de Feedback e Insights | Sintetiza feedback quantitativo e qualitativo em insights acionáveis. | [Link](https://www.google.com/search?q=./templates/14-feedback-insights.md) | [Link](https://www.google.com/search?q=./examples/14-feedback-insights-ex.md) |
+| | Persona Model Canvas | Cria um arquétipo do usuário principal, focando em suas dores e objetivos. | [Link](./templates/Persona_Model_Canvas_Template.md) | [Link](./examples/Persona_Model_Canvas_Example.md) |
+| | Canvas de Mapeamento de Fontes de Dados | Avalia a qualidade, o acesso e os riscos das fontes de dados disponíveis. | [Link](./templates/Data_Source_Mapping_Model_Canvas_Template.md) | [Link](./examples/Data_Source_Mapping_Model_Canvas_Example.m) |
+| | Canvas de Estratégia e Ação do Projeto | Consolida a visão, os KPIs e as primeiras ações táticas do projeto. | [Link](./templates/Project_Strategy_and_Action_Model_Canvas_Template.md) | [Link](./examples/Project_Strategy_and_Action_Model_Canvas_Example.md) |
+| **Composição** | Registro de Design de Prompt | Documenta um prompt como um ativo de engenharia reutilizável. | [Link](./templates/Prompt_Design_Record_Model_Canvas_Template.md) | [Link](./examples/Prompt_Design_Record_Model_Canvas_Example.md) |
+| | Canvas de Ideação de Soluções | Prioriza ideias de solução de forma visual com a matriz Impacto vs. Esforço. | [Link](./templates/Solution_Ideation_Model_Canvas_Template.md) | [Link](./examples/Solution_Ideation_Model_Canvas_Example.md) |
+| | Canvas de Design de Experimento | Desenha um experimento enxuto (MVP) para validar a principal hipótese. | [Link](./templates/Experiment_Design_Model_Canvas_Template.md) | [Link](./examples/Experiment_Design_Model_Canvas_Example.md) |
+| **Ensaio** | C4 Model (Templates) | Documenta a arquitetura de software em diferentes níveis de abstração. | [Link](./templates/C4_Model_Canvas_Template.md) | [Link](./examples/C4_Model_Canvas_Examples.md) |
+| | Registro de Estratégia de Inteligência | Define a abordagem técnica da IA (RAG, Fine-tuning, etc.). | [Link](./templates/Intelligence_Strategy_Record_Model_Canvas_Template.md) | [Link](./examples/Intelligence_Strategy_Record_Model_Canvas_Example.md) |
+| | Canvas de Testes e Validação | Planeja e documenta os testes de qualidade do sistema. | [Link](./templates/Testing_and_Validation_Model_Canvas_Template.md) | [Link](./examples/Testing_and_Validation_Model_Canvas_Example.md) |
+| | Checklist de Lançamento | Garante a prontidão técnica e de negócio para o lançamento (Go/No-Go). | [Link](./templates/Launch_Checklist_Model_Canvas_Template.md) | [Link](./examples/Launch_Checklist_Model_Canvas_Example.md) |
+| **Ressonância** | Canvas de Métricas de Escala e Impacto | Monitora o desempenho, o uso e o impacto do produto em produção. | [Link](./templates/Scale_and_Impact_Metrics_Model_Canvas_Template.md) | [Link](./examples/Scale_and_Impact_Metrics_Model_Canvas_Example.md) |
+| | Canvas de Planejamento de Escalabilidade | Planeja proativamente a evolução da infraestrutura para suportar o crescimento. | [Link](./templates/Scalability_Planning_Model_Canvas_Template.md) | [Link](./examples/Scalability_Planning_Model_Canvas_Example.md) |
+| | Painel de Feedback e Insights | Sintetiza feedback quantitativo e qualitativo em insights acionáveis. | [Link](./templates/Feedback_and_Insights_Panel_Model_Canvas_Template.md) | [Link](./examples/Feedback_and_Insights_Panel_Model_Canvas_Example.md) |
 
 ## Como Usar Este Repositório
 
-1.  **Leia o E-book (Recomendado):** Para um aprofundamento completo na filosofia, nas atividades e nos papéis, consulte o [**e-book completo da Metodologia Sinfonia**](https://www.google.com/search?q=link-para-seu-ebook).
+1.  **Leia o E-book (Recomendado):** Para um aprofundamento completo na filosofia, nas atividades e nos papéis, consulte o [**e-book completo da Metodologia Sinfonia**]().
 2.  **Explore a pasta `/templates`:** Contém todos os 14 artefatos em formato Markdown, prontos para serem usados.
 3.  **Explore a pasta `/examples`:** Contém exemplos de preenchimento para cada artefato, baseados num estudo de caso de uma clínica médica.
 4.  **Adapte ao seu contexto:** Sinta-se à vontade para clonar este repositório e adaptar os canvases às necessidades da sua equipe e do seu projeto.
@@ -109,7 +109,7 @@ Este é um projeto aberto e em evolução. Se você tiver sugestões para melhor
 
 ## Sobre o Autor
 
-A Metodologia Sinfonia foi criada e refinada por **[Seu Nome]**. Para saber mais, conecte-se através do [**LinkedIn**](https://www.google.com/search?q=link-para-seu-linkedin) ou explore outros projetos no [**GitHub**](https://www.google.com/search?q=link-para-seu-github).
+A Metodologia Sinfonia foi criada e refinada por **[Vinicius Cardoso Garcia](https://viniciusgarcia.me/)**. Para saber mais, conecte-se através do [**LinkedIn**](https://www.linkedin.com/in/viniciusgarcia) leia os [artigos dos debates que inspiraram a criação da metodologia](https://dev.to/vinicius3w/series/32001) ou explore outros projetos no [**GitHub**](https://github.com/assertlab).
 
 ## Licença
 
