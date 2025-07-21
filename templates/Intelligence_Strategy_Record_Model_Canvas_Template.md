@@ -2,7 +2,7 @@
 
 ## Instruções de Preenchimento
 
-Use esta ficha para documentar a abordagem técnica escolhida para o núcleo de IA do projeto. Selecione a abordagem principal e preencha apenas as seções relevantes.
+Use este registro para documentar a abordagem técnica escolhida para o núcleo de IA do projeto. Selecione a abordagem principal e preencha apenas as seções relevantes.
 
 ### 1. Objetivo da Inteligência
 
