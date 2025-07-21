@@ -8,7 +8,7 @@
   - *Exemplo:* "Resumir o histórico médico de um paciente em um parágrafo conciso para o médico."
 - **Modelo(s) Alvo:** Especifique se o prompt foi otimizado para um modelo específico e qual.
   - *Exemplo:* "Qualquer (genérico)", "OpenAI GPT-4", "Google Gemini 1.5 Pro".
-- **Versão da Ficha:**
+- **Versão do Registro:**
   - *Exemplo:* "1.0"
 
 ## 2. Estrutura do Prompt
