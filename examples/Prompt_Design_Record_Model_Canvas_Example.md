@@ -4,7 +4,7 @@
 
 - **Propósito:** Resumir o histórico médico de um paciente em um parágrafo conciso para que o médico possa se preparar rapidamente antes de iniciar a consulta.
 - **Modelo(s) Alvo:** Google Gemini 1.5 Pro (otimizado para resumos de texto longo).
-- **Versão da Ficha:** 1.0
+- **Versão do Registro:** 1.0
 
 ## 2. Estrutura do Prompt
 
