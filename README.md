@@ -18,11 +18,6 @@ Nossa filosofia central é:
 
 > "Um framework para o design estratégico de produtos e negócios, fundamentado na aplicação e integração de múltiplas inteligências. Sua prática é guiada pelo aprendizado e evolução contínua com base em evidências, mantendo um compromisso fundamental com a geração de valor para clientes, o mercado e o próprio negócio."
 
-Este trabalho é guiado por três pilares de **[Princípios-Chave]()**:
-1.  **Pilares Estratégicos de Valor:** (Desejável, Viável, Factível, Defensável)
-2.  **Abordagem de Criação e Inovação:** (Empatia Profunda, Colaboração Radical, Experimentação Contínua)
-3.  **Motor de Evolução Contínua:** (Aprendizado por Evidências, Entrega Contínua de Valor, Adaptação Inteligente)
-
 ### Princípios-Chave
 
 A execução da Sinfonia é guiada por um conjunto de princípios fundamentais, que garantem que a "música" seja não apenas bonita, mas também tecnicamente sólida e financeiramente viável.
