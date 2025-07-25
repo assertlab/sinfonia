@@ -23,6 +23,32 @@ Este trabalho é guiado por três pilares de **[Princípios-Chave]()**:
 2.  **Abordagem de Criação e Inovação:** (Empatia Profunda, Colaboração Radical, Experimentação Contínua)
 3.  **Motor de Evolução Contínua:** (Aprendizado por Evidências, Entrega Contínua de Valor, Adaptação Inteligente)
 
+### Princípios-Chave
+
+A execução da Sinfonia é guiada por um conjunto de princípios fundamentais, que garantem que a "música" seja não apenas bonita, mas também tecnicamente sólida e financeiramente viável.
+
+- **Pilares Estratégicos de Valor**
+    - **Desejável**: Resolve um problema real e cria valor percebido pelo cliente.
+    - **Viável**: Garante a sustentabilidade e o alinhamento estratégico com o negócio e o mercado.
+    - **Factível**: É tecnicamente realizável com os recursos e tecnologias disponíveis.
+    - **Defensável**: Opera de forma ética, segura, transparente e em conformidade.
+- **Abordagem de Criação e Inovação**
+    - **Empatia Profunda**: A inovação parte de uma compreensão genuína das necessidades humanas.
+    - **Colaboração Radical**: A integração de múltiplas inteligências exige a união de múltiplas expertises.
+    - **Experimentação Sistemática**: Ideias são hipóteses a serem validadas rapidamente para gerar evidências.
+- **Motor de Evolução Contínua**
+    - **Aprendizado por Evidências**: A evolução do produto é guiada por dados e feedback, não por suposições.
+    - **Entrega Contínua de Valor**: O valor é liberado em ciclos curtos e incrementais para acelerar o aprendizado.
+    - **Adaptação Inteligente**: A estrutura se mantém ágil para responder a novas evidências e mudanças de contexto.
+
+## O Modelo Cíclico: A Regra de Ouro da Sinfonia
+
+A Sinfonia não é um processo linear com um fim. É um ciclo que se repete e evolui. A regra mais importante da metodologia é:
+
+> Qualquer decisão estratégica de expansão significativa (seja por diversificação de funcionalidade, entrada em novo domínio ou expansão geográfica) deve ser tratada como um gatilho para iniciar um novo ciclo da metodologia Sinfonia, começando pela fase ```Exposição```.
+
+Isso garante que novas frentes sejam tratadas com o mesmo rigor estratégico da composição original, reutilizando nossos artefatos enxutos e evitando a criação de documentos de planeamento monolíticos e redundantes.
+
 ## O Framework em Resumo
 
 O diagrama abaixo ilustra o ciclo de vida da Sinfonia, com as suas quatro fases e os seus dois ciclos de feedback, que a tornam uma metodologia de evolução contínua.
